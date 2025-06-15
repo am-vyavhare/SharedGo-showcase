@@ -1,6 +1,12 @@
 # 🚖 SharedGo  
 **Blockchain-Powered AI Cab Pooling Service**
 
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
+[![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)]()
+[![AI/ML](https://img.shields.io/badge/AI%2FML-563D7C?style=for-the-badge&logo=python&logoColor=white)]()
+[![Blockchain](https://img.shields.io/badge/Blockchain-EF6C00?style=for-the-badge&logo=bitcoin&logoColor=white)]()
+
 SharedGo is a Flutter-based mobile application developed as part of a hackathon challenge. It provides a **decentralized ride-sharing platform** that leverages the power of **blockchain** and **AI** to ensure secure, efficient, and intelligent cab pooling.
 
 ---
@@ -53,4 +59,3 @@ SharedGo is a Flutter-based mobile application developed as part of a hackathon 
 ---
 
 > 💡 You can view or clone the full source code from this repository and try running the project on your emulator or physical device.
-
