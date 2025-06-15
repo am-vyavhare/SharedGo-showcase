@@ -57,5 +57,3 @@ SharedGo is a Flutter-based mobile application developed as part of a hackathon 
 | ![](assets/screenshots/Request_Ride.png) | ![](assets/screenshots/Distance_and_Fare.png) | ![](assets/screenshots/Driver_Dashboard.png) | ![](assets/screenshots/User_Requests.png) |
 
 ---
-
-> 💡 You can view or clone the full source code from this repository and try running the project on your emulator or physical device.
